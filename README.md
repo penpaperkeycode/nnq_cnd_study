@@ -1,7 +1,49 @@
-# nnq_mc_study
-nnq_mc_study stands for Neural Network Quantization &amp; Model Compression Study
+# Study-Neural Network Quantization & Model Compression
 
-*Neural Network Quantization & Model Compression Awesome Papers!*
+nnq_mc_study stands for Neural Network Quantization &amp; Model Compression Study.
+
+This is a repository for Neural Network Quantization & Model Compression Study.<br>
+
+It will be focusing on paper reviews for deep neural networks, model compression, and Quantization.
+
+Online Study supported by AI Robotics KR group will be held soon.
+
+## Prerequisite
+
+- Basic Understanding for deep learning algorithms like DNN, RNN, CNN is preferred
+- Passion for learning
+- Persistence
+
+---
+
+## Learning Objectives
+
+- Deep understanding for Deep Learning Quantization & Model Compression Algorithms
+
+---
+
+## How to Study
+
+- Online Presentation
+- Q & A
+
+---
+## Participants:
+
+---
+## Schedule
+
+
+
+| Week      | Subject  | Presenter |
+| ------------ | --------- | :---: |
+| Week 1,  | |  |
+
+
+
+---
+
+##Neural Network Quantization & Model Compression Awesome Papers!
 
 *0. Binarized Neural Network & Its Training*
  - Courbariaux, Matthieu, et al. “Binarized neural networks: Training deep neural networks with weights and activations
