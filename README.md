@@ -43,6 +43,7 @@ Online Study supported by AI Robotics KR group will be held soon.
  - **Hyunwoo Kim**: Yonekawa, Haruyoshi, and Hiroki Nakahara. “On-chip memory based binarized convolutional deep neural network applying batch normalization free technique on an fpga.” 2017 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW). IEEE, 2017. 
  - **Hyunwoo Kim**: Umuroglu, Yaman, et al. “Finn: A framework for fast, scalable binarized neural network inference.” Proceedings of the 2017 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. ACM, 2017.
  - **Sukjung Kim**: He, Yihui, et al. “Amc: Automl for model compression and acceleration on mobile devices.” Proceedings of the European Conference on Computer Vision (ECCV). 2018.
+ - **Sanggun Kim**: Han, Song, Huizi Mao, and William J. Dally. "Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding." arXiv preprint arXiv:1510.00149 (2015).
 
 ## Schedule
 
@@ -84,3 +85,4 @@ Online Study supported by AI Robotics KR group will be held soon.
 
 **4. Hardware for Quantized Neural Network**
  - Lee, Jinmook, et al. “Unpu: An energy-efficient deep neural network accelerator with fully variable weight bit precision.” IEEE Journal of Solid-State Circuits 54.1 (2018): 173-185.
+ - Han, Song, Huizi Mao, and William J. Dally. "Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding." arXiv preprint arXiv:1510.00149 (2015).
