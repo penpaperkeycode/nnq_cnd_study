@@ -34,7 +34,8 @@ Online Study supported by AI Robotics KR group will be held soon.
 
 ## Contributors:
 
-**Study Learder**: Jeonghoon Kim(GitHub:IntelligenceDatum)
+**Study Learder**: Jeonghoon Kim(GitHub:IntelligenceDatum).
+
 **Presentation List**:
  - **Jeonghoon Kim(GitHub:IntelligenceDatum)**: Courbariaux, Matthieu, et al. “Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1.” arXiv preprint arXiv:1602.02830 (2016).
  - **Youngbin Kim**: Darabi, Sajad, et al. “BNN+: Improved binary network training.” arXiv preprint arXiv:1812.11800 (2018). 
