@@ -28,6 +28,8 @@ Online Study supported by AI Robotics KR group will be held soon.
 ---
 ## Participants:
 
+**Slack** : @Hwigeon Oh, @Seojin Kim, @DongJunMin, @이경준, @Hyunwoo Kim, @Constant, @임병학, @KimYoungBin, @Sanggun Kim, @martin, @Joh, @김석중, @Yongwoo Kim, @MinSeop Lee, @Woz.D, @inwoong.lee (이인웅), @Hoyeolchoi, @Bochan Kim, @Young Seok Kim, @taehkim, @Seongmock Yoo, @Mike.Oh, @최승호, @Davidlee, @Stella Yang, @sejungkwon, @Jaeyoung Lee, @Hyungjun Kim, @Jeonghoon.
+
 ---
 ## Contributors:
  - Jeonghoon Kim(GitHub:IntelligenceDatum): Courbariaux, Matthieu, et al. “Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1.” arXiv preprint arXiv:1602.02830 (2016).
