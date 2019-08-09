@@ -1,6 +1,8 @@
 # Study-Neural Network Quantization & Model Compression
 
-This is a repository and *nnq_mc_study* stands for Neural Network Quantization &amp; Model Compression Study.<br>
+This is a repository of Facebook Group *AI Robotics KR*.<br>
+
+*nnq_mc_study* stands for Neural Network Quantization &amp; Model Compression Study.
 
 It will be focusing on paper reviews for deep neural networks, model compression, and Quantization.
 
