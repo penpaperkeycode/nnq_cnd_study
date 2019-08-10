@@ -38,13 +38,13 @@ Online Study supported by AI Robotics KR group will be held soon.
 
 **Presentation List**:
  - **Jeonghoon Kim(GitHub:IntelligenceDatum)**: Courbariaux, Matthieu, et al. “Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1.” arXiv preprint arXiv:1602.02830 (2016).
- - **Youngbin Kim**: Darabi, Sajad, et al. “BNN+: Improved binary network training.” arXiv preprint arXiv:1812.11800 (2018). 
+ - **Youngbin Kim(GitHub:dudqls1994)**: Darabi, Sajad, et al. “BNN+: Improved binary network training.” arXiv preprint arXiv:1812.11800 (2018). 
  - **Yongwoo Kim**: Zhou, Shuchang, et al. “Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients.” arXiv preprint arXiv:1606.06160 (2016).
  - **Hyunwoo Kim**: Yonekawa, Haruyoshi, and Hiroki Nakahara. “On-chip memory based binarized convolutional deep neural network applying batch normalization free technique on an fpga.” 2017 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW). IEEE, 2017. 
  - **Hyunwoo Kim**: Umuroglu, Yaman, et al. “Finn: A framework for fast, scalable binarized neural network inference.” Proceedings of the 2017 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. ACM, 2017.
  - **Sukjung Kim**: He, Yihui, et al. “Amc: Automl for model compression and acceleration on mobile devices.” Proceedings of the European Conference on Computer Vision (ECCV). 2018.
- - **Sanggun Kim**: Han, Song, Huizi Mao, and William J. Dally. "Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding." arXiv preprint arXiv:1510.00149 (2015).
- - **Sang-soo Park**: Yu, Jiecao, et al. "Scalpel: Customizing dnn pruning to the underlying hardware parallelism." 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA): 548-560.
+ - **Sanggun Kim(GitHub:dldldlfma)**: Han, Song, Huizi Mao, and William J. Dally. "Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding." arXiv preprint arXiv:1510.00149 (2015).
+ - **Sang-soo Park(GitHub:constant)**: Yu, Jiecao, et al. "Scalpel: Customizing dnn pruning to the underlying hardware parallelism." 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA): 548-560.
 
 ## Schedule
 
