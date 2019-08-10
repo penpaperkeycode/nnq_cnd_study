@@ -44,7 +44,7 @@ Online Study supported by AI Robotics KR group will be held soon.
  - **Hyunwoo Kim**: Umuroglu, Yaman, et al. “Finn: A framework for fast, scalable binarized neural network inference.” Proceedings of the 2017 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. ACM, 2017.
  - **Sukjung Kim**: He, Yihui, et al. “Amc: Automl for model compression and acceleration on mobile devices.” Proceedings of the European Conference on Computer Vision (ECCV). 2018.
  - **Sanggun Kim**: Han, Song, Huizi Mao, and William J. Dally. "Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding." arXiv preprint arXiv:1510.00149 (2015).
- - **Sangsu Park**: Yu, Jiecao, et al. "Scalpel: Customizing dnn pruning to the underlying hardware parallelism." ACM SIGARCH Computer Architecture News 45.2 (2017): 548-560.
+ - **Sang-soo Park**: Yu, Jiecao, et al. "Scalpel: Customizing dnn pruning to the underlying hardware parallelism." 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA): 548-560.
 
 ## Schedule
 
