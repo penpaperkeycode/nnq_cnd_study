@@ -67,8 +67,8 @@ Online Study supported by AI Robotics KR group will be held soon.
  - Hou, Lu, Quanming Yao, and James T. Kwok. "Loss-aware binarization of deep networks." Proceedings of the Fifth International Conference on Learning Representations (ICLR), Toulon, France, Apr 2017.
 
 **1. Hardware for BNN (Edge device)**
- - *Yonekawa, Haruyoshi, and Hiroki Nakahara. “On-chip memory based binarized convolutional deep neural network applying batch normalization free technique on an fpga.” 2017 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW). IEEE, 2017. 
- - Umuroglu, Yaman, et al. “Finn: A framework for fast, scalable binarized neural network inference.” Proceedings of the 2017 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. ACM, 2017.*
+ - *Yonekawa, Haruyoshi, and Hiroki Nakahara. “On-chip memory based binarized convolutional deep neural network applying batch normalization free technique on an fpga.” 2017 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW). IEEE, 2017.* 
+ - *Umuroglu, Yaman, et al. “Finn: A framework for fast, scalable binarized neural network inference.” Proceedings of the 2017 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. ACM, 2017.*
 
 **2. Multi-bit Quantization** 
  - Jung, Sangil, et al. “Learning to quantize deep networks by optimizing quantization intervals with task loss.” Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.
