@@ -37,7 +37,7 @@ Online Study supported by AI Robotics KR group will be held soon.
 **Study Learder**: Jeonghoon Kim(GitHub:IntelligenceDatum).
 
 **Presentation List**:
- - **Jeonghoon Kim(GitHub:IntelligenceDatum)**: Courbariaux, Matthieu, et al. “Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1.” arXiv preprint arXiv:1602.02830 (2016).
+ - **Jeonghoon Kim(GitHub:IntelligenceDatum)**: Courbariaux, Matthieu, Yoshua Bengio, and Jean-Pierre David. "Binaryconnect: Training deep neural networks with binary weights during propagations." Advances in neural information processing systems. 2015.
  - **Youngbin Kim(GitHub:dudqls1994)**: Darabi, Sajad, et al. “BNN+: Improved binary network training.” arXiv preprint arXiv:1812.11800 (2018). 
  - **Yongwoo Kim**: Zhou, Shuchang, et al. “Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients.” arXiv preprint arXiv:1606.06160 (2016).
  - **Hyunwoo Kim**: Yonekawa, Haruyoshi, and Hiroki Nakahara. “On-chip memory based binarized convolutional deep neural network applying batch normalization free technique on an fpga.” 2017 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW). IEEE, 2017. 
