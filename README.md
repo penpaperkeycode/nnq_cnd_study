@@ -42,7 +42,8 @@ Online Study supported by AI Robotics KR group will be held soon.
  - **Yongwoo Kim**: Zhou, Shuchang, et al. “Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients.” arXiv preprint arXiv:1606.06160 (2016).
  - **Hyunwoo Kim**: Yonekawa, Haruyoshi, and Hiroki Nakahara. “On-chip memory based binarized convolutional deep neural network applying batch normalization free technique on an fpga.” 2017 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW). IEEE, 2017. 
  - **Hyunwoo Kim**: Umuroglu, Yaman, et al. “Finn: A framework for fast, scalable binarized neural network inference.” Proceedings of the 2017 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. ACM, 2017.
- - **Sukjung Kim**: He, Yihui, et al. “Amc: Automl for model compression and acceleration on mobile devices.” Proceedings of the European Conference on Computer Vision (ECCV). 2018.
+ - **Seokjoong Kim**: He, Yihui, et al. “Amc: Automl for model compression and acceleration on mobile devices.” Proceedings of the European Conference on Computer Vision (ECCV). 2018.
+ - **Seokjoong Kim**: Polino, Antonio, Razvan Pascanu, and Dan Alistarh. "Model compression via distillation and quantization." ICLR2018 Conference Paper arXiv:1802.05668 (2018).
  - **Sanggun Kim(GitHub:dldldlfma)**: Han, Song, Huizi Mao, and William J. Dally. "Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding." arXiv preprint arXiv:1510.00149 (2015).
  - **Sang-soo Park(GitHub:constant)**: Yu, Jiecao, et al. "Scalpel: Customizing dnn pruning to the underlying hardware parallelism." 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA): 548-560.
 
@@ -63,6 +64,7 @@ Online Study supported by AI Robotics KR group will be held soon.
  - Galloway, Angus, Graham W. Taylor, and Medhat Moussa. “Attacking binarized neural networks.” arXiv preprint arXiv:1711.00449 (2017).
  - *Zhou, Shuchang, et al. “Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients.” arXiv preprint arXiv:1606.06160 (2016).*  
  - Wang, Ziwei, et al. “Learning Channel-Wise Interactions for Binary Convolutional Neural Networks.” Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2019.
+ - Hou, Lu, Quanming Yao, and James T. Kwok. "Loss-aware binarization of deep networks." Proceedings of the Fifth International Conference on Learning Representations (ICLR), Toulon, France, Apr 2017.
 
 **1. Hardware for BNN (Edge device)**
  - *Yonekawa, Haruyoshi, and Hiroki Nakahara. “On-chip memory based binarized convolutional deep neural network applying batch normalization free technique on an fpga.” 2017 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW). IEEE, 2017. 
@@ -74,6 +76,8 @@ Online Study supported by AI Robotics KR group will be held soon.
  - Zhang, Dongqing, et al. “Lq-nets: Learned quantization for highly accurate and compact deep neural networks.” Proceedings of the European Conference on Computer Vision (ECCV). 2018.
  - Zhu, Chenzhuo, et al. “Trained ternary quantization.” arXiv preprint arXiv:1612.01064 (2016).
  - Lee, Dongsoo, Parichay Kapoor, and Byeongwook Kim. “Deeptwist: Learning model compression via occasional weight distortion.” arXiv preprint arXiv:1810.12823 (2018).
+ - Hou, Lu, and James T. Kwok. "Loss-aware weight quantization of deep networks." Proceedings of the Sixth International Conference on Learning Representations (ICLR), Vancouver, BC, Canada, Apr 2018.
+ - Lu Hou, Ruiliang Zhang, James T. Kwok. "Analysis of Quantized Models" Proceedings of the Seventh International Conference on Learning Representations (ICLR), New Orleans, USA, May 2019.
 
 **3. Neural Network Model Compression &Hardware Aware Neural Network Architectures**
  - Iandola, Forrest N., et al. “SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size.” arXiv preprint arXiv:1602.07360 (2016).
