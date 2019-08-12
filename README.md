@@ -46,6 +46,7 @@ Online Study supported by AI Robotics KR group will be held soon.
  - **Seokjoong Kim**: Polino, Antonio, Razvan Pascanu, and Dan Alistarh. "Model compression via distillation and quantization." ICLR2018 Conference Paper arXiv:1802.05668 (2018).
  - **Sanggun Kim(GitHub:dldldlfma)**: Han, Song, Huizi Mao, and William J. Dally. "Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding." arXiv preprint arXiv:1510.00149 (2015).
  - **Sang-soo Park(GitHub:constant)**: Yu, Jiecao, et al. "Scalpel: Customizing dnn pruning to the underlying hardware parallelism." 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA): 548-560.
+ - **Hyungjun Kim**: Zhang, Dongqing, et al. “Lq-nets: Learned quantization for highly accurate and compact deep neural networks.” Proceedings of the European Conference on Computer Vision (ECCV). 2018.
 
 ## Schedule
 
