@@ -1,6 +1,4 @@
-
-
-## Neural Network Quantization & Model Compression Awesome Paper list!
+## Neural Network Quantization & Model Compression Awesome Papers!
 
 **0. Binarized Neural Network & Its Training**
  - *Courbariaux, Matthieu, et al. “Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1.” arXiv preprint arXiv:1602.02830 (2016).*
