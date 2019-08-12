@@ -34,9 +34,9 @@ Online Study supported by AI Robotics KR group will be held soon.
 
 ## Contributors:
 
-**Study Learder**: Jeonghoon Kim(GitHub:IntelligenceDatum).
+**Main Study Learder**: Jeonghoon Kim(GitHub:IntelligenceDatum).
 
-**Study Sub Leader**: Seo Yeon Stella Yang(GitHub:howtowhy).
+**Model Compression Leader**: Seo Yeon Stella Yang(GitHub:howtowhy).
 
 **Presentation List**:
  - **Jeonghoon Kim(GitHub:IntelligenceDatum)**: Courbariaux, Matthieu, Yoshua Bengio, and Jean-Pierre David. "Binaryconnect: Training deep neural networks with binary weights during propagations." Advances in neural information processing systems. 2015.
