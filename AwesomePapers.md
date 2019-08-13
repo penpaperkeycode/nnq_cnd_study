@@ -87,14 +87,12 @@
  - Yu, Jiecao, et al. "Scalpel: Customizing dnn pruning to the underlying hardware parallelism." ACM SIGARCH Computer Architecture News 45.2 (2017): 548-560.
 
 
-**5. Accelerating Compressed model**
+**5. Hardware awareness for Accelerating**
 
  - EIE [Han, 2016] "EIE: Efficient Inference Engine on Compressed Deep Neural Network"
  - ESE [Han, 2017] "ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA"
  - SCNN [Parashar, 2017] "SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks"
  - DLA [NVIDIA, 2017] "DLA" : https://www.hotchips.org/hc30/2conf/2.08_NVidia_DLA_Nvidia_DLA_HotChips_10Aug18.pdf
-  
-**6. Hardware for Accelerating**
  
  Computation Specialization
  - Clement Farabet, Berin Martini et al. "NeuFlow: A Runtime Reconfigurable Dataflow Processor for Vision"
@@ -111,7 +109,7 @@
  - Baohua Sun, Lin Yang, "Ultra Power-Efficient CNN Domain Specific Accelerator with 9.3TOPS/Watt for Mobile and Embedded Applications"
  - ShiftNet Accelerator [Wu, 2018]
  
- **7. Compiler Optimization**
+ **6. Compiler Optimization**
  
  - DLVM- A modern compiler framework for neural network DSLs
  - DLVM- A MODERN COMPILER INFRASTRUCTURE FOR DEEP LEARNING SYSTEMS
