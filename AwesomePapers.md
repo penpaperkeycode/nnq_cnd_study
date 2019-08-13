@@ -47,8 +47,12 @@
  - Zhuang, Zhuangwei, et al. “Discrimination-aware channel pruning for deep neural networks.” Advances in Neural Information Processing Systems. 2018.
  - *He, Yihui, et al. “Amc: Automl for model compression and acceleration on mobile devices.” Proceedings of the European Conference on Computer Vision (ECCV). 2018.*
 
- **4. Accelerating (NPU (혹은 Neural Network Framework) 컴파일러(+ 컴파일러 레벨의 딥러닝 관련 최적화))**
-- "Unpu: An energy-efficient deep neural network accelerator with fully variable weight bit precision." IEEE Journal of Solid-State Circuits 54.1 (2018): 173-185.
+**4. Hardware for Quantized Neural Network**
+ - Lee, Jinmook, et al. “Unpu: An energy-efficient deep neural network accelerator with fully variable weight bit precision.” IEEE Journal of Solid-State Circuits 54.1 (2018): 173-185.
+ - Han, Song, Huizi Mao, and William J. Dally. "Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding." arXiv preprint arXiv:1510.00149 (2015).
+ - Yu, Jiecao, et al. "Scalpel: Customizing dnn pruning to the underlying hardware parallelism." ACM SIGARCH Computer Architecture News 45.2 (2017): 548-560.
+
+ **5. Accelerating (NPU (혹은 Neural Network Framework) 컴파일러(+ 컴파일러 레벨의 딥러닝 관련 최적화))**
 - DLVM- A modern compiler framework for neural network DSLs
 - DLVM- A MODERN COMPILER INFRASTRUCTURE FOR DEEP LEARNING SYSTEMS
 -  A modern compiler infrastructure for deep learning systems with adjoint code generation in a domain-specific IR
@@ -59,10 +63,3 @@
 - Glow: Graph Lowering Compiler Techniques for Neural Networks
 - TensorFlow XLA compiler and the NNVM compiler (논문 아님) 
 - Cambricon: An Instruction Set Architecture for Neural Networks
-
-
-**4. Hardware for Quantized Neural Network**
- - Lee, Jinmook, et al. “Unpu: An energy-efficient deep neural network accelerator with fully variable weight bit precision.” IEEE Journal of Solid-State Circuits 54.1 (2018): 173-185.
- - Han, Song, Huizi Mao, and William J. Dally. "Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding." arXiv preprint arXiv:1510.00149 (2015).
- - Yu, Jiecao, et al. "Scalpel: Customizing dnn pruning to the underlying hardware parallelism." ACM SIGARCH Computer Architecture News 45.2 (2017): 548-560.
-
