@@ -21,6 +21,22 @@
 
 **3. Neural Network Model Compression &Hardware Aware Neural Network Architectures**
  - Naver techtalk : https://www.slideshare.net/mobile/NaverEngineering/designing-more-efficient-convolution-neural-network-122869307
+ - Song Han, Huizi Mao, William J. Dally. "Deep Compression :Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding"
+ - Junho Yim1 Donggyu Joo1 Jihoon Bae2 Junmo Kim1 "A Gift from Knowledge Distillation: Fast Optimization, Network Minimization and Transfer Learning"
+ 
+ Residual Connection
+ - "Residual Networks Behave LIke Ensembles of Relatively Shallow Networks"
+ Dilated Convolution
+ Point-wise Convolution
+ Grouped Convolution
+ Depth-wise (Seperable) Convolution
+ 
+ Quantization
+ 
+ 
+ Prunning
+ 
+  
  - Jacob, Benoit, et al. "Quantization and training of neural networks for efficient integer-arithmetic-only inference." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
  - Zhu, Chenzhuo, et al. “Trained ternary quantization.” arXiv preprint arXiv:1612.01064 (2016).
  - Iandola, Forrest N., et al. “SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size.” arXiv preprint arXiv:1602.07360 (2016).
