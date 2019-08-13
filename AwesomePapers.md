@@ -1,4 +1,10 @@
 ## Neural Network Quantization & Model Compression Awesome Papers!
+
+**1. Overall Presentation**
+ - Naver techtalk : "https://www.slideshare.net/mobile/NaverEngineering/designing-more-efficient-convolution-neural-network-122869307"
+ - Song Han. "Accelerating inference at the edge" : https://www.hotchips.org/hc30/0tutorials/T2_Part_2_Song_Hanv3.pdf
+ 
+
 **0. Binarized Neural Network & Its Training**
  - *Courbariaux, Matthieu, et al. “Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1.” arXiv preprint arXiv:1602.02830 (2016).*
  - *Darabi, Sajad, et al. “BNN+: Improved binary network training.” arXiv preprint arXiv:1812.11800 (2018).*
@@ -21,30 +27,28 @@
 
 **3. Neural Network Model Compression**
 
-Quantization
+ Quantization
 - Kuan Wang, Song Han, et al. "HAQ: Hardware-Aware Automated Quantization with Mixed Precision" IEEE Conference on Computer Vision and Pattern Recognition (CVPR), (2019)
 - Jacob, Benoit, et al. "Quantization and training of neural networks for efficient integer-arithmetic-only inference." Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition. 2018.
 - Zhu, Chenzhuo, et al. “Trained ternary quantization.” arXiv preprint arXiv:1612.01064 (2016).
 
-Distillation
+ Distillation
 - Elliot J. Crowley, et al. "Moonshine: Distilling with Cheap Convolutions" arXiv preprint arXiv:1711.02613 (2019)
 - Polino, Antonio, Razvan Pascanu, and Dan Alistarh. “Model compression via distillation and quantization.” arXiv preprint arXiv:1802.05668 (2018).
  
-Prunning
+ Prunning
 - Song Han, Huizi Mao, William J. Dally. "Deep Compression :Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding"
 - Zhuang, Zhuangwei, et al. “Discrimination-aware channel pruning for deep neural networks.” Advances in Neural Information Processing Systems. 2018.
 
-Hashing
+ Hashing
 - Han Zhu, Mingsheng Long, et al. "Deep Hashing Network for Efficient Similarity Retrieval"
 - Dayan Wu, Qi Dai, et al. "Deep Incremental Hashing Network for Efficient Image Retrieval"
 
-Automl
+ Automl
 - He, Yihui, et al. “Amc: Automl for model compression and acceleration on mobile devices.” Proceedings of the European Conference on Computer Vision (ECCV). 2018.
 
-**4. Light Weighted Neural Network Design**
- 
- Overall Presentation
- - Naver techtalk : "https://www.slideshare.net/mobile/NaverEngineering/designing-more-efficient-convolution-neural-network-122869307"
+
+**4. Efficient Neural Network Design**
  
  Residual Connection
  - Mark Sandler, Andrew Howard, et al. "MobileNetV2: Inverted Residuals and Linear Bottlenecks"
@@ -82,14 +86,39 @@ Automl
  - Han, Song, Huizi Mao, and William J. Dally. "Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding." arXiv preprint arXiv:1510.00149 (2015).
  - Yu, Jiecao, et al. "Scalpel: Customizing dnn pruning to the underlying hardware parallelism." ACM SIGARCH Computer Architecture News 45.2 (2017): 548-560.
 
- **5. NPU (or Neural Network Framework), Compiler Optimization**
-- DLVM- A modern compiler framework for neural network DSLs
-- DLVM- A MODERN COMPILER INFRASTRUCTURE FOR DEEP LEARNING SYSTEMS
--  A modern compiler infrastructure for deep learning systems with adjoint code generation in a domain-specific IR
-- Compiling machine learning programs via high-level tracing
-- A Neural Network Accelerator Exploiting Both Inter-and Intra-Neuron Parallelism
-- TVM- An Automated End-to-End Optimizing Compiler for Deep Learning
-- Halide- A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines
-- Glow: Graph Lowering Compiler Techniques for Neural Networks
-- TensorFlow XLA compiler and the NNVM compiler (논문 아님) 
-- Cambricon: An Instruction Set Architecture for Neural Networks
+
+**5. Accelerating Compressed model**
+
+ - EIE [Han, 2016] "EIE: Efficient Inference Engine on Compressed Deep Neural Network"
+ - ESE [Han, 2017] "ESE: Efficient Speech Recognition Engine with Sparse LSTM on FPGA"
+ - SCNN [Parashar, 2017] "SCNN: An Accelerator for Compressed-sparse Convolutional Neural Networks"
+ - DLA [NVIDIA, 2017] "DLA" : https://www.hotchips.org/hc30/2conf/2.08_NVidia_DLA_Nvidia_DLA_HotChips_10Aug18.pdf
+  
+**6. Hardware for Accelerating**
+ 
+ Computation Specialization
+ - Clement Farabet, Berin Martini et al. "NeuFlow: A Runtime Reconfigurable Dataflow Processor for Vision"
+ - Norman P. Jouppi, Cliff Young, Google et al. "In-Datacenter Performance Analysis of a Tensor Processing Unit"
+  - A Neural Network Accelerator Exploiting Both Inter-and Intra-Neuron Parallelism
+  
+ Memory centric Specialization
+ - Diannao Family [Chen, 2014-2016] 
+ - Eyeriss [Chen, 2016]
+ 
+ Special CNN
+ - Kiseok Kwon. "Co-Design of Deep Neural Nets and Neural Net Accelerators for Embedded Vision Applications" (2018)
+ - DeePhi’s DPU-v2
+ - Baohua Sun, Lin Yang, "Ultra Power-Efficient CNN Domain Specific Accelerator with 9.3TOPS/Watt for Mobile and Embedded Applications"
+ - ShiftNet Accelerator [Wu, 2018]
+ 
+ **7. Compiler Optimization**
+ 
+ - DLVM- A modern compiler framework for neural network DSLs
+ - DLVM- A MODERN COMPILER INFRASTRUCTURE FOR DEEP LEARNING SYSTEMS
+ -  A modern compiler infrastructure for deep learning systems with adjoint code generation in a domain-specific IR
+ - Compiling machine learning programs via high-level tracing
+ - TVM- An Automated End-to-End Optimizing Compiler for Deep Learning
+ - Halide- A Language and Compiler for Optimizing Parallelism, Locality, and Recomputation in Image Processing Pipelines
+ - Glow: Graph Lowering Compiler Techniques for Neural Networks
+ - TensorFlow XLA compiler and the NNVM compiler (논문 아님) 
+ - Cambricon: An Instruction Set Architecture for Neural Networks
