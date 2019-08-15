@@ -40,8 +40,8 @@ Online Study supported by AI Robotics KR group will be held soon.
 
 **Presentation List**:
  - **Jeonghoon Kim(GitHub:IntelligenceDatum)**: Courbariaux, Matthieu, Yoshua Bengio, and Jean-Pierre David. "Binaryconnect: Training deep neural networks with binary weights during propagations." Advances in neural information processing systems. 2015.
- - **Yongwoo Kim**: Zhou, Shuchang, et al. “Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients.” arXiv preprint arXiv:1606.06160 (2016).
  - **Sanggun Kim(GitHub:dldldlfma)**: Han, Song, Huizi Mao, and William J. Dally. "Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding." arXiv preprint arXiv:1510.00149 (2015).
+ - **Yongwoo Kim**: Zhou, Shuchang, et al. “Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients.” arXiv preprint arXiv:1606.06160 (2016).
   - **Hyunwoo Kim**: Umuroglu, Yaman, et al. “Finn: A framework for fast, scalable binarized neural network inference.” Proceedings of the 2017 ACM/SIGDA International Symposium on Field-Programmable Gate Arrays. ACM, 2017.
  - **Sang-soo Park(GitHub:constant)**: Yu, Jiecao, et al. "Scalpel: Customizing dnn pruning to the underlying hardware parallelism." 2017 ACM/IEEE 44th Annual International Symposium on Computer Architecture (ISCA): 548-560.
  - **Youngbin Kim(GitHub:dudqls1994)**: Darabi, Sajad, et al. “BNN+: Improved binary network training.” arXiv preprint arXiv:1812.11800 (2018). 
@@ -56,8 +56,8 @@ Online Study supported by AI Robotics KR group will be held soon.
 | Week    | Subject  | Presenter |
 |---------|:---------------------------------------------------------------------------------------------------------:|-------------:|
 | Week 1  |1. Binaryconnect: Training deep neural networks with binary weights during propagations. | Jeonghoon Kim|
-|         |2. Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients. |Yongwoo Kim|
-| Week 2  |1.Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding. |Sanggun Kim |
+|         |2. Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding. |Sanggun Kim|
+| Week 2  |1. Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients.|Yongwoo Kim |
 |         |2. Finn: A framework for fast, scalable binarized neural network inference. |Hyunwoo Kim|
 | Week 3  |1.Scalpel: Customizing dnn pruning to the underlying hardware parallelism. |Sang-soo Park |
 |         |2. BNN+: Improved binary network training. |Youngbin Kim|
