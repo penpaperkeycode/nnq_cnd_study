@@ -53,21 +53,16 @@ Online Study supported by AI Robotics KR group will be held soon.
 ## Schedule
 
 
-| Week      | Subject  | Presenter |
-+===========+==========+===========+
-| Week 1  |1. Binaryconnect: Training deep neural networks with binary weights during propagations.\ | Jeonghoon Kim\ |
+| Week    | Subject  | Presenter |
+|---------|:---------------------------------------------------------------------------------------------------------:|-------------:|
+| Week 1  |1. Binaryconnect: Training deep neural networks with binary weights during propagations. | Jeonghoon Kim|
 |         |2. Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients. |Yongwoo Kim|
-+---------------+---------------+--------------------+
-| Week 2  |1.Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding.\ |Sanggun Kim\ |
+| Week 2  |1.Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding. |Sanggun Kim |
 |         |2. Finn: A framework for fast, scalable binarized neural network inference. |Hyunwoo Kim|
-+---------------+---------------+--------------------+
-| Week 3  |1.Scalpel: Customizing dnn pruning to the underlying hardware parallelism.\ |Sang-soo Park\ |
+| Week 3  |1.Scalpel: Customizing dnn pruning to the underlying hardware parallelism. |Sang-soo Park |
 |         |2. BNN+: Improved binary network training. |Youngbin Kim|
-+---------------+---------------+--------------------+
-| Week 4  |1.Lq-nets: Learned quantization for highly accurate and compact deep neural networks.\ |Hyungjun Kim \|
+| Week 4  |1.Lq-nets: Learned quantization for highly accurate and compact deep neural networks. |Hyungjun Kim |
 |         |2. Model compression via distillation and quantization. |Seokjoong Kim|
-+---------------+---------------+--------------------+
-| Week 5  |1.Amc: Automl for model compression and acceleration on mobile devices.\ |Seokjoong Kim \|
+| Week 5  |1.Amc: Automl for model compression and acceleration on mobile devices. |Seokjoong Kim |
 |         |2. TBD|TBD|
-+---------------+---------------+--------------------+
 
