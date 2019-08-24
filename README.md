@@ -25,10 +25,12 @@ Online Study supported by AI Robotics KR group will be held on **September 1st**
 - Online Presentation
 - Q & A
 
----
+------------------------------
 ## Participants:
 
 **Slack** : @Hwigeon Oh, @Seojin Kim, @DongJunMin, @이경준, @Hyunwoo Kim, @Constant, @임병학, @KimYoungBin, @Sanggun Kim, @martin, @Joh, @김석중, @Yongwoo Kim, @MinSeop Lee, @Woz.D, @inwoong.lee (이인웅), @Hoyeolchoi, @Bochan Kim, @Young Seok Kim, @taehkim, @Seongmock Yoo, @Mike.Oh, @최승호, @Davidlee, @Stella Yang, @sejungkwon, @Jaeyoung Lee, @Hyungjun Kim, @tae-ha, @Jeonghoon.
+
+------------------------------------
 
 **GitHub** : 
 
@@ -37,6 +39,8 @@ Online Study supported by AI Robotics KR group will be held on **September 1st**
 **Main Study Learder**: Jeonghoon Kim(GitHub:IntelligenceDatum).
 
 **Model Compression Leader**: Seo Yeon Stella Yang(GitHub:howtowhy).
+
+**Presenter**:Jeonghoon Kim, Stella Yang, Sanggun Kim, Hyunwoo Kim, Seojin Kim, Hwigeon Oh, Seojin Kim, Seokjoong Kim, Martin Hwang, Youngbin Kim, Sang-soo Park, Jaeyoung Lee, Yongwoo Kim, Hyungjun Kim, Sejung Kwon, 이경준, Bochan Kim, 이인웅. 
 
 ## Schedule (Presentation List):
 
