@@ -60,3 +60,18 @@ Online Study supported by AI Robotics KR group have been ongoing since September
 | Week 12  |1.Deeptwist: Learning model compression via occasional weight distortion.<br />2. All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification.|1.Sejung Kwon (일정 및 내용 협의 필요)<br />2.Stella Yang|
 | Week 13  |1.Analysis of Quantized Models.<br />2.EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks.	|1.Bochan Kim<br />2.	Martin Hwang|    
 | Week 14  |1.Learning to quantize deep networks by optimizing quantization intervals with task loss.<br />2. Amc: Automl for model compression and acceleration on mobile devices.|1.이인웅<br />2.Seokjoong Kim|
+
+
+------------------------------------
+
+## Presentation with Video :
+
+Neural Network Quantization & Compact Network Development Study
+
+### Week1: Introduction of NNQ&CND
+Title: A Piece of Weight
+Presentor: 김정훈 (Jeonghoon Kim)
+PPT: https://drive.google.com/open?id=1RQAiIFX7wOUMiZXPCIZbXb_6DtLlV38e
+Video: https://youtu.be/pohMFz-uQJ0
+
+### Week2: Introduction of CND & BNN & MobileNet
