@@ -1,4 +1,4 @@
-## Neural Network Quantization & Model Compression Awesome Papers!
+## Neural Network Quantization & Compact Networks Design Awesome Papers!
 
 **1. Overall Presentation**
  - Naver techtalk : "https://www.slideshare.net/mobile/NaverEngineering/designing-more-efficient-convolution-neural-network-122869307"
