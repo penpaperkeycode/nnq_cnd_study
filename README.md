@@ -1,12 +1,12 @@
-# Study-Neural Network Quantization & Model Compression
+# Study-Neural Network Quantization & Compact Networks Design
 
 This is a repository of Facebook Group *AI Robotics KR*.<br>
 
-*nnq_mc_study* stands for Neural Network Quantization &amp; Model Compression Study.
+*nnq_mc_study* stands for Neural Network Quantization &amp; Compact Networks Design Study.
 
-It will be focusing on paper reviews for deep neural networks, model compression, and Quantization.
+It will be focusing on paper reviews for deep neural networks, model compression, compact network design, and Quantization.
 
-Online Study supported by AI Robotics KR group will be held on **September 1st**.
+Online Study supported by AI Robotics KR group have been ongoing since September 1st.
 
 ## Prerequisite
 
@@ -17,7 +17,7 @@ Online Study supported by AI Robotics KR group will be held on **September 1st**
 
 ## Learning Objectives
 
-- Deep understanding for Deep Learning Quantization & Model Compression Algorithms
+- Deep understanding for Deep Learning Quantization & Compact Networks Design Algorithms
 
 
 ## How to Study
@@ -38,7 +38,7 @@ Online Study supported by AI Robotics KR group will be held on **September 1st**
 
 **Main Study Learder**: Jeonghoon Kim(GitHub:IntelligenceDatum).
 
-**Model Compression Leader**: Seo Yeon Stella Yang(GitHub:howtowhy).
+**Compact Networks Design Leader**: Seo Yeon Stella Yang(GitHub:howtowhy).
 
 **Presenter**:Jeonghoon Kim, Stella Yang, Sanggun Kim, Hyunwoo Kim, Seojin Kim, Hwigeon Oh, Seojin Kim, Seokjoong Kim, Martin Hwang, Youngbin Kim, Sang-soo Park, Jaeyoung Lee, Yongwoo Kim, Hyungjun Kim, Sejung Kwon, 이경준, Bochan Kim, 이인웅. 
 
