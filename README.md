@@ -86,7 +86,7 @@ PPT: https://drive.google.com/open?id=1oQI8Pv7N66pZHflx0CyMIyahhbA-Dce7
 | Week 7  |1. Loss-aware binarization of deep networks.<br />2. Scalpel: Customizing dnn pruning to the underlying hardware parallelism.|1.Youngbin Kim<br />2.Sang-soo Park|
 | Week 8  |1.Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients.<br />2.ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices.|1.Yongwoo Kim<br />2.Jaeyoung Lee|
 | Week 9  |1.Lq-nets: Learned quantization for highly accurate and compact deep neural networks.<br />2. Model compression via distillation and quantization.|1.Hyungjun Kim<br />2. Seokjoong Kim|
-| Week 10  |1. Alternating Multi-bit Quantization for Recurrent Neural Networks.<br />	2. Densely Connected Convolutional Networks.|1.Sejung Kwon. (일정 및 내용 협의 필요)<br />2.이경준|
-| Week 11  |1.Deeptwist: Learning model compression via occasional weight distortion.<br />2. All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification.|1.Sejung Kwon (일정 및 내용 협의 필요)<br />2.Stella Yang|
+| Week 10  |1. Alternating Multi-bit Quantization for Recurrent Neural Networks.<br />	2. Densely Connected Convolutional Networks.|1.Eunhui Kim<br />2.이경준|
+| Week 11  |1.TBD<br />2. All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification.|1.Sejung Kwon<br />2.Stella Yang|
 | Week 12  |1.Analysis of Quantized Models.<br />2.EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks.	|1.Bochan Kim<br />2.	Martin Hwang|    
 | Week 13  |1.Learning to quantize deep networks by optimizing quantization intervals with task loss.<br />2. Amc: Automl for model compression and acceleration on mobile devices.|1.이인웅<br />2.Seokjoong Kim|
