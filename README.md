@@ -49,14 +49,27 @@ Online Study supported by AI Robotics KR group have been ongoing since September
 Neural Network Quantization & Compact Network Development Study
 
 ### Week1: Introduction of NNQ&CND
-Title: A Piece of Weight  
+**Title: A Piece of Weight**  
 Presentor: 김정훈 (Jeonghoon Kim)  
 PPT: https://drive.google.com/open?id=1RQAiIFX7wOUMiZXPCIZbXb_6DtLlV38e  
 Video: https://youtu.be/pohMFz-uQJ0  
 
 
 ### Week2: Introduction of CND & BNN & MobileNet  
-  
+**Title: Compact Network Development Overview**  
+Presentor: Stella Yang  
+Video: https://youtu.be/R3pE-pGBbBg  
+PPT: https://drive.google.com/open?id=1bTy68uO1Ta4tJLYDLA7d6GJfRx1YbcM4  
+
+**Paper: Binarized Neural Networks:Training Deep Neural Networks with Weights and Activations**  
+Presentor: 김정훈 (Jeonghoon Kim)  
+Video:  https://youtu.be/n89CsZpZcNk  
+PPT:  https://drive.google.com/open?id=1DoeGj-goeI5WMIu5LPTQ6aFZ2czl7eNP  
+
+**Paper: MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications**  
+Presentor:  김상근 (Sanggun Kim)  
+Video: https://youtu.be/GyQUBLDQEJI  
+PPT: https://drive.google.com/open?id=1oQI8Pv7N66pZHflx0CyMIyahhbA-Dce7  
   
 
 ------------------------------------
