@@ -55,7 +55,7 @@ PPT: https://drive.google.com/open?id=1RQAiIFX7wOUMiZXPCIZbXb_6DtLlV38e
 Video: https://youtu.be/pohMFz-uQJ0  
 
 
-### Week2: Introduction of CND & BNN & MobileNet  
+### Week2: BNN & MobileNet + CND Overview (Makeup class)  
 **Title: Compact Network Development Overview**  
 Presentor: Stella Yang  
 Video: https://youtu.be/R3pE-pGBbBg  
