@@ -13,6 +13,7 @@ Online Study supported by AI Robotics KR group have been ongoing since September
 - Basic Understanding for deep learning algorithms like DNN, RNN, CNN is preferred
 - Passion for learning
 - Persistence
+- Motivation
 
 
 ## Learning Objectives
