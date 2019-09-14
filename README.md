@@ -47,7 +47,7 @@ Online Study supported by AI Robotics KR group have been ongoing since September
 
 ## Presentation with Video :
 
-Neural Network Quantization & Compact Network Development Study
+Neural Network Quantization & Compact Network Design Study
 
 ### Week1: Introduction of NNQ&CND
 **Title: A Piece of Weight**  
@@ -57,7 +57,7 @@ Video: https://youtu.be/pohMFz-uQJ0
 
 
 ### Week2: BNN & MobileNet + CND Overview (Makeup class)  
-**Title: Compact Network Development Overview**  
+**Title: Compact Network Design Overview**  
 Presentor: Stella Yang  
 Video: https://youtu.be/R3pE-pGBbBg  
 PPT: https://drive.google.com/open?id=1bTy68uO1Ta4tJLYDLA7d6GJfRx1YbcM4  
