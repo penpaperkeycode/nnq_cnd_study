@@ -18,7 +18,7 @@ Online Study supported by AI Robotics KR group have been ongoing since September
 
 ## Learning Objectives
 
-- Deep understanding for Deep Learning Quantization & Compact Networks Design Algorithms
+- Deep understanding for Deep Neural Network Quantization & Compact Networks Design Algorithms
 
 
 ## How to Study
