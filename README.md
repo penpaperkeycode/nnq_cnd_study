@@ -83,7 +83,7 @@ PPT: https://drive.google.com/open?id=1oQI8Pv7N66pZHflx0CyMIyahhbA-Dce7
 | Week 3  |1.Finn: A framework for fast, scalable binarized neural network inference.<br />2. MobileNetV2: Inverted Residuals and Linear Bottlenecks| 1.Hyunwoo Kim<br />2.Seojin Kim  |
 | Week 4  |1.XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks.<br />2. SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and< 0.5 MB model size. |1.Hwigeon Oh<br />2.Martin Hwang |
 | Week 5  |1.BNN+: Improved binary network training.<br />2. Squeezenext: Hardware-aware neural network design. |1.Youngbin Kim<br /> 2.Sang-soo Park|
-| Week 6  |1.Loss-aware binarization of deep networks.<br />	2. Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding.|1.Sanggun Kim<br />2.	Sang-soo Park|
+| Week 6  |1.Loss-aware binarization of deep networks.<br />	2. Deep compression: Compressing deep neural networks with pruning, trained quantization and huffman coding.|1.Jaeyoung Lee<br />2.	Sanggun Kim|
 | Week 7  |1. Loss-aware binarization of deep networks.<br />2. Scalpel: Customizing dnn pruning to the underlying hardware parallelism.|1.Youngbin Kim<br />2.Sang-soo Park|
 | Week 8  |1.Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients.<br />2.ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices.|1.Yongwoo Kim<br />2.Jaeyoung Lee|
 | Week 9  |1.Lq-nets: Learned quantization for highly accurate and compact deep neural networks.<br />2. Model compression via distillation and quantization.|1.Hyungjun Kim<br />2. Seokjoong Kim|
