@@ -72,6 +72,17 @@ Presentor:  김상근 (Sanggun Kim)
 Video: https://youtu.be/GyQUBLDQEJI  
 PPT: https://drive.google.com/open?id=1oQI8Pv7N66pZHflx0CyMIyahhbA-Dce7  
   
+### Week3: FINN (BNNs Hardware) & MobileNetV2  
+**Paper: FINN: A Framework for Fast, Scalable Binarized Neural Network Inference**  
+Presentor: 김현우 (Hyun-Woo Kim)
+Video:  https://youtu.be/DjS8wvXaE8c
+PPT:  https://drive.google.com/file/d/11uj-UaLiOEBIxExpo43OV5l6b4MSFTuD/view?usp=sharing
+
+**Paper: MobileNetV2: Inverted Residuals and Linear Bottlenecks**  
+Presentor:  김서진
+Video: not available / (스터디노트 업로드 예정)
+PPT: https://drive.google.com/file/d/1NTfct371Lpasly8XW7zt7OzOTh87sVLA/view?usp=sharing
+
 
 ------------------------------------
 ## Schedule (Presentation List):
