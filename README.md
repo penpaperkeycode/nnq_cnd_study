@@ -1,4 +1,4 @@
-# Study-Neural Network Quantization & Compact Networks Design
+# Neural Network Quantization & Compact Networks Design
 
 This is a repository of Facebook Group *AI Robotics KR*.<br>
 
