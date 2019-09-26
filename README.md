@@ -26,14 +26,11 @@ Online Study supported by AI Robotics KR group have been ongoing since September
 - Online Presentation
 - Q & A
 
-------------------------------
 ## Participants:
 
 **Slack** : @Hwigeon Oh, @Seojin Kim, @DongJunMin, @이경준, @Hyunwoo Kim, @Constant, @임병학, @KimYoungBin, @Sanggun Kim, @martin, @Joh, @김석중, @Yongwoo Kim, @MinSeop Lee, @Woz.D, @inwoong.lee (이인웅), @Hoyeolchoi, @Bochan Kim, @Young Seok Kim, @taehkim, @Seongmock Yoo, @Mike.Oh, @최승호, @Davidlee, @Stella Yang, @sejungkwon, @Jaeyoung Lee, @Hyungjun Kim, @tae-ha, @Jeonghoon.
 
 ------------------------------------
-
-**GitHub** : 
 
 ## Contributors:
 
