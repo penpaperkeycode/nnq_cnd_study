@@ -2,7 +2,7 @@
 
 This is a repository of Facebook Group *AI Robotics KR*.<br>
 
-*nnq_mc_study* stands for Neural Network Quantization &amp; Compact Networks Design Study.
+*nnq_cnd_study* stands for Neural Network Quantization &amp; Compact Networks Design Study.
 
 It will be focusing on paper reviews for deep neural networks, model compression, compact network design, and Quantization.
 
