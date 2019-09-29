@@ -80,6 +80,18 @@ Presentor:  김서진
 Video: not available / (스터디노트 업로드 예정)  
 PPT: https://drive.google.com/file/d/1NTfct371Lpasly8XW7zt7OzOTh87sVLA/view?usp=sharing  
 
+### Week4: XNOR-Net & SqueezeNet    
+**Paper: XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks**  
+Presentor: 오휘건  
+Video:  https://youtu.be/N6oP-8E5cWA   
+PPT:  https://drive.google.com/open?id=1bz3C-fFVSCrOdnbi-8lf_2NS1yhpGdVO  
+
+**Paper: SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and < 0.5MB model size**  
+Presentor:  Martin Hwang  
+Video: https://youtu.be/eH5O5nDiFoY  
+PPT: https://drive.google.com/open?id=1HNRhl1lxb7oe0gFsbv9f2fduCr_f_G4O  
+
+
 
 ------------------------------------
 ## Schedule (Presentation List):
