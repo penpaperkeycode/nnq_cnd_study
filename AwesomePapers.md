@@ -7,6 +7,7 @@
 
 **0. Binarized Neural Network & Its Training**
  - *Courbariaux, Matthieu, et al. “Binarized neural networks: Training deep neural networks with weights and activations constrained to+ 1 or-1.” arXiv preprint arXiv:1602.02830 (2016).*
+ - Rastegari, Mohammad, et al. "Xnor-net: Imagenet classification using binary convolutional neural networks." European Conference on Computer Vision. Springer, Cham, 2016.  
  - *Darabi, Sajad, et al. “BNN+: Improved binary network training.” arXiv preprint arXiv:1812.11800 (2018).*
  - Galloway, Angus, Graham W. Taylor, and Medhat Moussa. “Attacking binarized neural networks.” arXiv preprint arXiv:1711.00449 (2017).
  - *Zhou, Shuchang, et al. “Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients.” arXiv preprint arXiv:1606.06160 (2016).*  
