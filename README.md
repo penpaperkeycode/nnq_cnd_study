@@ -91,7 +91,14 @@ Presentor:  Martin Hwang
 Video: https://youtu.be/eH5O5nDiFoY  
 PPT: https://drive.google.com/open?id=1HNRhl1lxb7oe0gFsbv9f2fduCr_f_G4O  
 
+**Paper: BNN+: Improved Binary Network Training**  
+Presentor: 김영빈  
+Video:  https://youtu.be/M7-lBoiFHRI  
 
+**Paper: SqueezeNext: Hardware-Aware Neural Network Design**  
+Presentor:  박상수  
+Video: https://youtu.be/sbKl92j9Xrs  
+  
 
 ------------------------------------
 ## Schedule (Presentation List):
