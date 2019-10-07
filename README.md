@@ -119,3 +119,7 @@ Video: https://youtu.be/sbKl92j9Xrs
 | Week 11  |1.TBD<br />2. All You Need is a Few Shifts: Designing Efficient Convolutional Neural Networks for Image Classification.|1.Sejung Kwon<br />2.Stella Yang|
 | Week 12  |1.Analysis of Quantized Models.<br />2.EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks.	|1.Bochan Kim<br />2.	Martin Hwang|    
 | Week 13  |1.Learning to quantize deep networks by optimizing quantization intervals with task loss.<br />2. Amc: Automl for model compression and acceleration on mobile devices.|1.이인웅<br />2.Seokjoong Kim|
+
+
+## References
+https://github.com/ai-robotics-kr/nnq_cnd_study/blob/master/AwesomePapers.md  
