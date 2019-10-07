@@ -58,7 +58,7 @@ Video: https://youtu.be/R3pE-pGBbBg
 PPT: https://drive.google.com/open?id=1bTy68uO1Ta4tJLYDLA7d6GJfRx1YbcM4  
 
 
-### Week2: BNN & MobileNet**
+### Week2: BNN & MobileNet
 **Paper: Binarized Neural Networks:Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**  
 Presentor: 김정훈 (Jeonghoon Kim)  
 Video:  https://youtu.be/n89CsZpZcNk  
