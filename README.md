@@ -52,13 +52,13 @@ Presentor: 김정훈 (Jeonghoon Kim)
 PPT: https://drive.google.com/open?id=1RQAiIFX7wOUMiZXPCIZbXb_6DtLlV38e  
 Video: https://youtu.be/pohMFz-uQJ0  
 
-
-### Week2: BNN & MobileNet + CND Overview (Makeup class)  
 **Title: Compact Network Design Overview**  
 Presentor: Stella Yang  
 Video: https://youtu.be/R3pE-pGBbBg  
 PPT: https://drive.google.com/open?id=1bTy68uO1Ta4tJLYDLA7d6GJfRx1YbcM4  
 
+
+### Week2: BNN & MobileNet**
 **Paper: Binarized Neural Networks:Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**  
 Presentor: 김정훈 (Jeonghoon Kim)  
 Video:  https://youtu.be/n89CsZpZcNk  
