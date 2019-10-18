@@ -99,7 +99,11 @@ Video:  https://youtu.be/M7-lBoiFHRI
 **Paper: SqueezeNext: Hardware-Aware Neural Network Design**  
 Presentor:  박상수  
 Video: https://youtu.be/sbKl92j9Xrs  
-  
+
+### Week6: Loss-aware Binarization 
+**Paper: Loss-aware Binarization of Deep Networks**    
+Presentor:  이재영 (Jaeyoung Lee)  
+Video: https://youtu.be/Bs3SVcvr5cA  
 
 ------------------------------------
 ## Schedule (Presentation List):
