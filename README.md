@@ -105,6 +105,11 @@ Video: https://youtu.be/sbKl92j9Xrs
 Presentor:  이재영 (Jaeyoung Lee)  
 Video: https://youtu.be/Bs3SVcvr5cA  
 
+### Week7: Scalpel, Hardware-aware pruning
+**Paper: Scalpel: Customizing DNN Pruning to the Underlying Hardware Parallelism**
+Presentor: Constant (Sang-Soo) Park
+Video: https://youtu.be/DmCCREJ1zAA
+
 ------------------------------------
 ## Schedule (Presentation List):
 
