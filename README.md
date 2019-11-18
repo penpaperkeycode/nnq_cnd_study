@@ -114,6 +114,7 @@ Video: https://youtu.be/DmCCREJ1zAA
 **Paper: Dorefa-net: Training low bitwidth convolutional neural networks with low bitwidth gradients**  
 Presentor: Yongwoo Kim  
 Video: https://youtu.be/DEnQKMXzx7o  
+
 **Paper: ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices**  
 Presentor: Jaeyoung Lee    
 Video: https://youtu.be/l-Q06pAfBHw  
@@ -122,9 +123,15 @@ Video: https://youtu.be/l-Q06pAfBHw
 **Paper: LQ-Nets: Learned Quantization for Highly Accurate and Compact Deep Neural Networks**  
 Presentor: Hyungjun Kim  
 Video: https://youtu.be/ca_d03MYeJE  
+
 **Paper: Bi-Real Net: Enhancing the Performance of 1-bit CNNs With Improved Representational Capability and Advanced Training Algorithm**  
 Presentor: YoungBin Kim  
 Video: https://youtu.be/pQmvmcPZHmM   
+
+### WEEK10: QUANTIZATION & DISTILLATION  
+**Paper: Model Compression via Quantization and Distillation**  
+Presentor: Seokjoong Kim (김민성)  
+Video: https://youtu.be/xOMuav0UVXg  
 
 ------------------------------------
 ## Schedule (Presentation List):
