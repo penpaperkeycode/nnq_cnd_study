@@ -133,6 +133,15 @@ Video: https://youtu.be/pQmvmcPZHmM
 Presentor: Seokjoong Kim (김민성)  
 Video: https://youtu.be/xOMuav0UVXg  
 
+### WEEK11: ALTERNATING MULTI-BIT QUANTIZATION & DENSENET !!  
+**Paper: Alternating multi-bit quantization for recurrent neural networks**   
+Presentor: Eunhui Kim  
+Video: https://youtu.be/iibC1NZv0S4  
+
+**Paper: DenseNet: Densely Connected Convolutional Networks**  
+Presentor: Kyeong-Jun Lee  
+Video: https://youtu.be/bhvxLB6Qa60  
+  
 ------------------------------------
 ## Schedule (Presentation List):
 
