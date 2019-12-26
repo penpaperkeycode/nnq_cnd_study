@@ -141,6 +141,26 @@ Video: https://youtu.be/iibC1NZv0S4
 **Paper: DenseNet: Densely Connected Convolutional Networks**  
 Presentor: Kyeong-Jun Lee  
 Video: https://youtu.be/bhvxLB6Qa60  
+
+### Week12  
+
+### Week13: DEFENSIVE QUANTIZATION & EFFICIENTNET
+**Paper: Defensive Quantization: When Efficiency Meets Robustness**  
+Presentor: Bochan Kim  
+Video: https://youtu.be/7UfmDlLHOFA  
+
+**Paper: EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks**  
+Presentor: Martin Hwang  
+Video: https://youtu.be/58ZxZSLr_bU  
+
+### Week14: QIL & MobileNetV3  
+**Paper: Learning to Quantize Deep Networks by Optimizing Quantization Intervals with Task Loss**  
+Presentor: 이인웅  
+Video: https://youtu.be/VLyhhcPwxWc  
+
+**Paper: Searching for MobileNetV3**  
+Presentor: Seo Yeon Stella Yang  
+Video: https://youtu.be/JPs2Uy9DLO8  
   
 ------------------------------------
 ## Schedule (Presentation List):
