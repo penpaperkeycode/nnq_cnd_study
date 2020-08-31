@@ -77,7 +77,7 @@ PPT:  https://drive.google.com/file/d/11uj-UaLiOEBIxExpo43OV5l6b4MSFTuD/view?usp
 
 **Paper: MobileNetV2: Inverted Residuals and Linear Bottlenecks**   
 Presentor:  김서진  
-Video: not available / (스터디노트 업로드 예정)  
+Video: not available  
 PPT: https://drive.google.com/file/d/1NTfct371Lpasly8XW7zt7OzOTh87sVLA/view?usp=sharing  
 
 ### Week4: XNOR-Net & SqueezeNet    
